@@ -8,7 +8,7 @@ import os
 from dotenv import find_dotenv, load_dotenv
 """
 
-------------------->> CREATED TEMPLATE FOR FLASK AUTHENTICATION WITH PASSWORD HASHING <<---------------------
+------------------->> TEMPLATE FOR FLASK AUTHENTICATION WITH PASSWORD HASHING <<---------------------
 
 """
 
